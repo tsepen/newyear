@@ -1,5 +1,13 @@
 import React, { useState } from 'react';
-import ira from './images/cat.jpeg';
+
+import ira from './images/ira.jpg';
+import nastya from './images/nastya.jpg';
+import olesya from './images/olesya.jpg';
+import juliya from './images/julia.jpg';
+import rita from './images/rita.jpg';
+import nastya30 from './images/nastya30.jpg';
+import vika from './images/vika.jpg';
+
 import './App.css';
 import data from './data';
 
@@ -13,7 +21,7 @@ function App() {
                 <iframe
                     width="320"
                     height="320"
-                    src="https://www.youtube.com/embed/hY7m5jjJ9mM"
+                    src="https://www.youtube.com/embed/IePHmnG9kiE"
                     frameborder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen
@@ -23,6 +31,31 @@ function App() {
             <h2>Ищи себя и получай стих в подарок</h2>
             <div className="app">
                 {data.map(item => {
+                    let image;
+
+                    switch (item.name) {
+                        case 'ira':
+                            image = ira;
+                            break;
+                        case 'nastya':
+                            image = nastya;
+                            break;
+                        case 'olesya':
+                            image = olesya;
+                            break;
+                        case 'juliya':
+                            image = juliya;
+                            break;
+                        case 'rita':
+                            image = rita;
+                            break;
+                        case 'nastya30':
+                            image = nastya30;
+                            break;
+                        default:
+                            image = vika;
+                    }
+
                     return (
                         <div className="item">
                             {active === item.name ? (
@@ -38,7 +71,7 @@ function App() {
                                 ></iframe>
                             ) : (
                                 <img
-                                    src={ira}
+                                    src={image}
                                     className="App-logo"
                                     alt="logo"
                                     onClick={() => setActive(item.name)}
