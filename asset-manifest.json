@@ -1,29 +1,33 @@
 {
   "files": {
-    "main.css": "/newyear/static/css/main.fa1571ee.chunk.css",
-    "main.js": "/newyear/static/js/main.0f47254d.chunk.js",
-    "main.js.map": "/newyear/static/js/main.0f47254d.chunk.js.map",
+    "main.css": "/newyear/static/css/main.ce9435fb.chunk.css",
+    "main.js": "/newyear/static/js/main.db20ff1b.chunk.js",
+    "main.js.map": "/newyear/static/js/main.db20ff1b.chunk.js.map",
     "runtime-main.js": "/newyear/static/js/runtime-main.8114ab7b.js",
     "runtime-main.js.map": "/newyear/static/js/runtime-main.8114ab7b.js.map",
-    "static/js/2.263d3c50.chunk.js": "/newyear/static/js/2.263d3c50.chunk.js",
-    "static/js/2.263d3c50.chunk.js.map": "/newyear/static/js/2.263d3c50.chunk.js.map",
+    "static/js/2.dbef7594.chunk.js": "/newyear/static/js/2.dbef7594.chunk.js",
+    "static/js/2.dbef7594.chunk.js.map": "/newyear/static/js/2.dbef7594.chunk.js.map",
     "index.html": "/newyear/index.html",
-    "precache-manifest.77b394c3df48c5c45a95ef6d5c23f6e9.js": "/newyear/precache-manifest.77b394c3df48c5c45a95ef6d5c23f6e9.js",
+    "precache-manifest.9bfbe45a05996c67e0fdff9390d72aff.js": "/newyear/precache-manifest.9bfbe45a05996c67e0fdff9390d72aff.js",
     "service-worker.js": "/newyear/service-worker.js",
-    "static/css/main.fa1571ee.chunk.css.map": "/newyear/static/css/main.fa1571ee.chunk.css.map",
-    "static/js/2.263d3c50.chunk.js.LICENSE": "/newyear/static/js/2.263d3c50.chunk.js.LICENSE",
+    "static/css/main.ce9435fb.chunk.css.map": "/newyear/static/css/main.ce9435fb.chunk.css.map",
+    "static/js/2.dbef7594.chunk.js.LICENSE": "/newyear/static/js/2.dbef7594.chunk.js.LICENSE",
     "static/media/ira.jpg": "/newyear/static/media/ira.2d69fd01.jpg",
     "static/media/julia.jpg": "/newyear/static/media/julia.e7a7d252.jpg",
     "static/media/nastya.jpg": "/newyear/static/media/nastya.f6607762.jpg",
     "static/media/nastya30.jpg": "/newyear/static/media/nastya30.5e9dc137.jpg",
     "static/media/olesya.jpg": "/newyear/static/media/olesya.30ad2ffa.jpg",
     "static/media/rita.jpg": "/newyear/static/media/rita.8e9a27ca.jpg",
-    "static/media/vika.jpg": "/newyear/static/media/vika.3dbc419d.jpg"
+    "static/media/vika.jpg": "/newyear/static/media/vika.3dbc419d.jpg",
+    "static/media/Ире.mp4": "/newyear/static/media/Ире.1a9e4b64.mp4",
+    "static/media/Насте.mp4": "/newyear/static/media/Насте.229089d9.mp4",
+    "static/media/Олесе.mp4": "/newyear/static/media/Олесе.1f41d399.mp4",
+    "static/media/Поздравление.mp4": "/newyear/static/media/Поздравление.919e1847.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.8114ab7b.js",
-    "static/js/2.263d3c50.chunk.js",
-    "static/css/main.fa1571ee.chunk.css",
-    "static/js/main.0f47254d.chunk.js"
+    "static/js/2.dbef7594.chunk.js",
+    "static/css/main.ce9435fb.chunk.css",
+    "static/js/main.db20ff1b.chunk.js"
   ]
 }
