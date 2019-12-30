@@ -1,7 +1,7 @@
 export default [
     {
         name: 'ira',
-        video: 'https://www.youtube.com/embed/hY7m5jjJ9mM',
+        video: 'https://www.youtube.com/embed/E1UVxaWf7Zs',
     },
     {
         name: 'nastya',

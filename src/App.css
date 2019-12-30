@@ -1,3 +1,7 @@
+body {
+    background: #63d6d0;
+}
+
 .app {
     display: flex;
     justify-content: center;
@@ -19,7 +23,7 @@ img {
 h1,
 h2 {
     text-align: center;
-    color: #63d6d0;
+    color: #fff;
     padding: 0 20px;
 }
 
