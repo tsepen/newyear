@@ -1,23 +1,29 @@
 {
   "files": {
     "main.css": "/newyear/static/css/main.d7f5e2f4.chunk.css",
-    "main.js": "/newyear/static/js/main.98f264fd.chunk.js",
-    "main.js.map": "/newyear/static/js/main.98f264fd.chunk.js.map",
+    "main.js": "/newyear/static/js/main.7df1e3fb.chunk.js",
+    "main.js.map": "/newyear/static/js/main.7df1e3fb.chunk.js.map",
     "runtime-main.js": "/newyear/static/js/runtime-main.8114ab7b.js",
     "runtime-main.js.map": "/newyear/static/js/runtime-main.8114ab7b.js.map",
-    "static/js/2.8a74b309.chunk.js": "/newyear/static/js/2.8a74b309.chunk.js",
-    "static/js/2.8a74b309.chunk.js.map": "/newyear/static/js/2.8a74b309.chunk.js.map",
+    "static/js/2.263d3c50.chunk.js": "/newyear/static/js/2.263d3c50.chunk.js",
+    "static/js/2.263d3c50.chunk.js.map": "/newyear/static/js/2.263d3c50.chunk.js.map",
     "index.html": "/newyear/index.html",
-    "precache-manifest.8746d66135d58b42c0389a685bddaec7.js": "/newyear/precache-manifest.8746d66135d58b42c0389a685bddaec7.js",
+    "precache-manifest.81931ea9ccc66acb1b08e4a3d60eff09.js": "/newyear/precache-manifest.81931ea9ccc66acb1b08e4a3d60eff09.js",
     "service-worker.js": "/newyear/service-worker.js",
     "static/css/main.d7f5e2f4.chunk.css.map": "/newyear/static/css/main.d7f5e2f4.chunk.css.map",
-    "static/js/2.8a74b309.chunk.js.LICENSE": "/newyear/static/js/2.8a74b309.chunk.js.LICENSE",
-    "static/media/cat.jpeg": "/newyear/static/media/cat.0d81383a.jpeg"
+    "static/js/2.263d3c50.chunk.js.LICENSE": "/newyear/static/js/2.263d3c50.chunk.js.LICENSE",
+    "static/media/ira.jpg": "/newyear/static/media/ira.2d69fd01.jpg",
+    "static/media/julia.jpg": "/newyear/static/media/julia.e7a7d252.jpg",
+    "static/media/nastya.jpg": "/newyear/static/media/nastya.f6607762.jpg",
+    "static/media/nastya30.jpg": "/newyear/static/media/nastya30.5e9dc137.jpg",
+    "static/media/olesya.jpg": "/newyear/static/media/olesya.30ad2ffa.jpg",
+    "static/media/rita.jpg": "/newyear/static/media/rita.8e9a27ca.jpg",
+    "static/media/vika.jpg": "/newyear/static/media/vika.3dbc419d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8114ab7b.js",
-    "static/js/2.8a74b309.chunk.js",
+    "static/js/2.263d3c50.chunk.js",
     "static/css/main.d7f5e2f4.chunk.css",
-    "static/js/main.98f264fd.chunk.js"
+    "static/js/main.7df1e3fb.chunk.js"
   ]
 }
