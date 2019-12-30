@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/newyear/static/css/main.d7f5e2f4.chunk.css",
-    "main.js": "/newyear/static/js/main.7df1e3fb.chunk.js",
-    "main.js.map": "/newyear/static/js/main.7df1e3fb.chunk.js.map",
+    "main.css": "/newyear/static/css/main.fa1571ee.chunk.css",
+    "main.js": "/newyear/static/js/main.6a8f0402.chunk.js",
+    "main.js.map": "/newyear/static/js/main.6a8f0402.chunk.js.map",
     "runtime-main.js": "/newyear/static/js/runtime-main.8114ab7b.js",
     "runtime-main.js.map": "/newyear/static/js/runtime-main.8114ab7b.js.map",
     "static/js/2.263d3c50.chunk.js": "/newyear/static/js/2.263d3c50.chunk.js",
     "static/js/2.263d3c50.chunk.js.map": "/newyear/static/js/2.263d3c50.chunk.js.map",
     "index.html": "/newyear/index.html",
-    "precache-manifest.81931ea9ccc66acb1b08e4a3d60eff09.js": "/newyear/precache-manifest.81931ea9ccc66acb1b08e4a3d60eff09.js",
+    "precache-manifest.0db3d827f87e6530a45f85e9ea4b4541.js": "/newyear/precache-manifest.0db3d827f87e6530a45f85e9ea4b4541.js",
     "service-worker.js": "/newyear/service-worker.js",
-    "static/css/main.d7f5e2f4.chunk.css.map": "/newyear/static/css/main.d7f5e2f4.chunk.css.map",
+    "static/css/main.fa1571ee.chunk.css.map": "/newyear/static/css/main.fa1571ee.chunk.css.map",
     "static/js/2.263d3c50.chunk.js.LICENSE": "/newyear/static/js/2.263d3c50.chunk.js.LICENSE",
     "static/media/ira.jpg": "/newyear/static/media/ira.2d69fd01.jpg",
     "static/media/julia.jpg": "/newyear/static/media/julia.e7a7d252.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.8114ab7b.js",
     "static/js/2.263d3c50.chunk.js",
-    "static/css/main.d7f5e2f4.chunk.css",
-    "static/js/main.7df1e3fb.chunk.js"
+    "static/css/main.fa1571ee.chunk.css",
+    "static/js/main.6a8f0402.chunk.js"
   ]
 }
