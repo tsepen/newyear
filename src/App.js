@@ -11,8 +11,9 @@ import vika from './images/vika.jpg';
 import mainVideo from './video/Поздравление.mp4';
 
 import iraV from './video/Ире.mp4';
-import olesyaV from './video/Олесе.mp4';
 import nastyaV from './video/Насте.mp4';
+import olesyaV from './video/Олесе.mp4';
+
 import juliyaV from './video/Насте.mp4';
 import ritaV from './video/Насте.mp4';
 import nastya30V from './video/Насте.mp4';
@@ -69,16 +70,12 @@ function App() {
 
                     return (
                         <div className="item">
-                            {active === item.name ? (
-                                <video src={video} controls autoPlay></video>
-                            ) : (
-                                <img
-                                    src={image}
-                                    className="App-logo"
-                                    alt="logo"
-                                    onClick={() => setActive(item.name)}
-                                />
-                            )}{' '}
+                            <video
+                                src={video}
+                                controls
+                                // autoPlay
+                                poster={image}
+                            ></video>
                         </div>
                     );
                 })}
