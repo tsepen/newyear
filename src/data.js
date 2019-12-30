@@ -5,11 +5,11 @@ export default [
     },
     {
         name: 'nastya',
-        video: 'https://www.youtube.com/embed/hY7m5jjJ9mM',
+        video: 'https://www.youtube.com/embed/cq3xlBvRoK4',
     },
     {
         name: 'olesya',
-        video: 'https://www.youtube.com/embed/hY7m5jjJ9mM',
+        video: 'https://www.youtube.com/embed/KCGXTCcE08M',
     },
     {
         name: 'juliya',
