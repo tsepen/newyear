@@ -16,6 +16,11 @@ img {
     object-fit: cover;
 }
 
+video {
+    width: 320px;
+    height: 320px;
+}
+
 h1,
 h2 {
     text-align: center;
