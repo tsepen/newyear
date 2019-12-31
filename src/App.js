@@ -7,6 +7,7 @@ import juliya from './images/julia.jpg';
 import rita from './images/rita.jpg';
 import nastya30 from './images/nastya30.jpg';
 import vika from './images/vika.jpg';
+import den from './images/den.jpg';
 
 import mainVideo from './video/Поздравление.mp4';
 
@@ -28,9 +29,22 @@ function App() {
         <div>
             <h1>Новогоднее обращение предводителя</h1>
             <div className="main-video">
-                <video src={mainVideo} controls muted playsinline loop>
-                    {' '}
-                </video>
+                {active === 'main' ? (
+                    <video
+                        src={mainVideo}
+                        controls
+                        muted
+                        playsinline
+                        loop
+                        autoPlay
+                    ></video>
+                ) : (
+                    <img
+                        src={den}
+                        alt={'den'}
+                        onClick={() => setActive('main')}
+                    />
+                )}
             </div>
             <h2>Для тебя есть персональное поздравление</h2>
             <div className="app">
