@@ -33,7 +33,6 @@ function App() {
                     <video
                         src={mainVideo}
                         controls
-                        muted
                         playsinline
                         loop
                         autoPlay
@@ -90,7 +89,6 @@ function App() {
                                     src={video}
                                     controls
                                     autoPlay
-                                    muted
                                     playsinline
                                     loop
                                 ></video>
