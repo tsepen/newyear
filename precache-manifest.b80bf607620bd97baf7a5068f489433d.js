@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfacfff6f5a4ca5369b85c97b6b05acd",
+    "revision": "adfb2bb3df3ea739d880462daed32847",
     "url": "/newyear/index.html"
   },
   {
-    "revision": "c077b3c0f22f83d6a513",
+    "revision": "a07f9a8c3c2cb3ee19cd",
     "url": "/newyear/static/css/main.6f924aa9.chunk.css"
   },
   {
-    "revision": "83602f4a69290c76942b",
-    "url": "/newyear/static/js/2.50ac958b.chunk.js"
+    "revision": "0f560a51e79bfb8711e9",
+    "url": "/newyear/static/js/2.d7f1e2da.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/newyear/static/js/2.50ac958b.chunk.js.LICENSE"
+    "url": "/newyear/static/js/2.d7f1e2da.chunk.js.LICENSE"
   },
   {
-    "revision": "c077b3c0f22f83d6a513",
-    "url": "/newyear/static/js/main.3a368b91.chunk.js"
+    "revision": "a07f9a8c3c2cb3ee19cd",
+    "url": "/newyear/static/js/main.ffc5b81b.chunk.js"
   },
   {
     "revision": "142745484fe078f7e2a4",
     "url": "/newyear/static/js/runtime-main.8114ab7b.js"
+  },
+  {
+    "revision": "ccb9269457e96b8027b5e35abc629f8f",
+    "url": "/newyear/static/media/den.ccb92694.jpg"
   },
   {
     "revision": "2d69fd016badabc3500f267e9508aa99",
