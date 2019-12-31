@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/newyear/static/css/main.6f924aa9.chunk.css",
-    "main.js": "/newyear/static/js/main.ffc5b81b.chunk.js",
-    "main.js.map": "/newyear/static/js/main.ffc5b81b.chunk.js.map",
+    "main.css": "/newyear/static/css/main.ce9435fb.chunk.css",
+    "main.js": "/newyear/static/js/main.a5787ee4.chunk.js",
+    "main.js.map": "/newyear/static/js/main.a5787ee4.chunk.js.map",
     "runtime-main.js": "/newyear/static/js/runtime-main.8114ab7b.js",
     "runtime-main.js.map": "/newyear/static/js/runtime-main.8114ab7b.js.map",
     "static/js/2.d7f1e2da.chunk.js": "/newyear/static/js/2.d7f1e2da.chunk.js",
     "static/js/2.d7f1e2da.chunk.js.map": "/newyear/static/js/2.d7f1e2da.chunk.js.map",
     "index.html": "/newyear/index.html",
-    "precache-manifest.b80bf607620bd97baf7a5068f489433d.js": "/newyear/precache-manifest.b80bf607620bd97baf7a5068f489433d.js",
+    "precache-manifest.728851742f6d7da32316c56d96cebdd1.js": "/newyear/precache-manifest.728851742f6d7da32316c56d96cebdd1.js",
     "service-worker.js": "/newyear/service-worker.js",
-    "static/css/main.6f924aa9.chunk.css.map": "/newyear/static/css/main.6f924aa9.chunk.css.map",
+    "static/css/main.ce9435fb.chunk.css.map": "/newyear/static/css/main.ce9435fb.chunk.css.map",
     "static/js/2.d7f1e2da.chunk.js.LICENSE": "/newyear/static/js/2.d7f1e2da.chunk.js.LICENSE",
     "static/media/den.jpg": "/newyear/static/media/den.ccb92694.jpg",
     "static/media/ira.jpg": "/newyear/static/media/ira.2d69fd01.jpg",
@@ -22,9 +22,9 @@
     "static/media/vika.jpg": "/newyear/static/media/vika.3dbc419d.jpg",
     "static/media/Вике.mp4": "/newyear/static/media/Вике.25ba1380.mp4",
     "static/media/Ире.mp4": "/newyear/static/media/Ире.1a9e4b64.mp4",
-    "static/media/Насте.mp4": "/newyear/static/media/Насте.229089d9.mp4",
+    "static/media/Насте2.mp4": "/newyear/static/media/Насте2.c3667283.mp4",
     "static/media/Насте30.mp4": "/newyear/static/media/Насте30.2aefcfb8.mp4",
-    "static/media/Олесе.mp4": "/newyear/static/media/Олесе.1f41d399.mp4",
+    "static/media/Олесе2.mp4": "/newyear/static/media/Олесе2.1bf7b8d2.mp4",
     "static/media/Поздравление.mp4": "/newyear/static/media/Поздравление.919e1847.mp4",
     "static/media/Рите.mp4": "/newyear/static/media/Рите.fe6d632c.mp4",
     "static/media/Юле.mp4": "/newyear/static/media/Юле.fdf989a7.mp4"
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.8114ab7b.js",
     "static/js/2.d7f1e2da.chunk.js",
-    "static/css/main.6f924aa9.chunk.css",
-    "static/js/main.ffc5b81b.chunk.js"
+    "static/css/main.ce9435fb.chunk.css",
+    "static/js/main.a5787ee4.chunk.js"
   ]
 }
