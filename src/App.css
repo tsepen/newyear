@@ -19,6 +19,7 @@ img {
 video {
     width: 320px;
     height: 320px;
+    object-fit: cover;
 }
 
 h1,
