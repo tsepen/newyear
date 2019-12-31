@@ -12,8 +12,8 @@ import den from './images/den.jpg';
 import mainVideo from './video/Поздравление.mp4';
 
 import iraV from './video/Ире.mp4';
-import nastyaV from './video/Насте.mp4';
-import olesyaV from './video/Олесе.mp4';
+import nastyaV from './video/Насте2.mp4';
+import olesyaV from './video/Олесе2.mp4';
 import juliyaV from './video/Юле.mp4';
 import ritaV from './video/Рите.mp4';
 import nastya30V from './video/Насте30.mp4';
