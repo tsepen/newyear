@@ -27,7 +27,7 @@ function App() {
 
     return (
         <div>
-            <h1>Новогоднее обращение предводителя</h1>
+            <h1>Новогоднее поздравление девчонок e-com befree от парней </h1>
             <div className="main-video">
                 {active === 'main' ? (
                     <video
