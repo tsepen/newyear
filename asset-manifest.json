@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/newyear/static/css/main.42f25977.chunk.css",
-    "main.js": "/newyear/static/js/main.cb9c5809.chunk.js",
-    "main.js.map": "/newyear/static/js/main.cb9c5809.chunk.js.map",
+    "main.js": "/newyear/static/js/main.bfcdd476.chunk.js",
+    "main.js.map": "/newyear/static/js/main.bfcdd476.chunk.js.map",
     "runtime-main.js": "/newyear/static/js/runtime-main.8114ab7b.js",
     "runtime-main.js.map": "/newyear/static/js/runtime-main.8114ab7b.js.map",
     "static/js/2.07b6c876.chunk.js": "/newyear/static/js/2.07b6c876.chunk.js",
     "static/js/2.07b6c876.chunk.js.map": "/newyear/static/js/2.07b6c876.chunk.js.map",
     "index.html": "/newyear/index.html",
-    "precache-manifest.7d61391fba2e361e0baf45759b4e983d.js": "/newyear/precache-manifest.7d61391fba2e361e0baf45759b4e983d.js",
+    "precache-manifest.0eda04ccc2dc3f3474e45e0959ec8583.js": "/newyear/precache-manifest.0eda04ccc2dc3f3474e45e0959ec8583.js",
     "service-worker.js": "/newyear/service-worker.js",
     "static/css/main.42f25977.chunk.css.map": "/newyear/static/css/main.42f25977.chunk.css.map",
     "static/js/2.07b6c876.chunk.js.LICENSE": "/newyear/static/js/2.07b6c876.chunk.js.LICENSE",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.8114ab7b.js",
     "static/js/2.07b6c876.chunk.js",
     "static/css/main.42f25977.chunk.css",
-    "static/js/main.cb9c5809.chunk.js"
+    "static/js/main.bfcdd476.chunk.js"
   ]
 }
