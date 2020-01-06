@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "735705f51fb90814b5fef6b8cba85a52",
+    "revision": "6c8cd144262f1b484f0ea97dc9b0437b",
     "url": "/newyear/index.html"
   },
   {
-    "revision": "6bc0e61a26220708a9cb",
-    "url": "/newyear/static/css/main.ce9435fb.chunk.css"
+    "revision": "add6fe5a80fbf6fc8170",
+    "url": "/newyear/static/css/main.42f25977.chunk.css"
   },
   {
-    "revision": "0f560a51e79bfb8711e9",
-    "url": "/newyear/static/js/2.d7f1e2da.chunk.js"
+    "revision": "e3f6b6c35280c829063e",
+    "url": "/newyear/static/js/2.07b6c876.chunk.js"
   },
   {
     "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/newyear/static/js/2.d7f1e2da.chunk.js.LICENSE"
+    "url": "/newyear/static/js/2.07b6c876.chunk.js.LICENSE"
   },
   {
-    "revision": "6bc0e61a26220708a9cb",
-    "url": "/newyear/static/js/main.391eebf5.chunk.js"
+    "revision": "add6fe5a80fbf6fc8170",
+    "url": "/newyear/static/js/main.cb9c5809.chunk.js"
   },
   {
     "revision": "142745484fe078f7e2a4",
