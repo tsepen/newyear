@@ -22,18 +22,9 @@ function App() {
     const [active, setActive] = useState('');
     const [isLogin, setIsLogin] = useState(false);
 
-    useEffect(() => {
-        const isLogin = localStorage.getItem('isLogin');
-
-        if (isLogin) {
-            setIsLogin(true);
-        }
-    }, []);
-
     const onPasswordChenge = value => {
         if (value.toLowerCase() === 'слон') {
             setIsLogin(true);
-            localStorage.setItem('isLogin', true);
         }
     };
 
